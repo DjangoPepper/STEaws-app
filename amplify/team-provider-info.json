@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-steawsapp-dev-4ae0e-authRole",
+      "UnauthRoleArn": "arn:aws:iam::809661596780:role/amplify-steawsapp-dev-4ae0e-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::809661596780:role/amplify-steawsapp-dev-4ae0e-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-steawsapp-dev-4ae0e-deployment",
+      "UnauthRoleName": "amplify-steawsapp-dev-4ae0e-unauthRole",
+      "StackName": "amplify-steawsapp-dev-4ae0e",
+      "StackId": "arn:aws:cloudformation:eu-west-1:809661596780:stack/amplify-steawsapp-dev-4ae0e/2531edc0-41f8-11f1-93af-0aee674d543b",
+      "AmplifyAppId": "d1pa8dq0yixym4"
+    },
+    "categories": {
+      "auth": {
+        "steawsappdb5e52fd": {}
+      },
+      "api": {
+        "steawsapp": {}
+      }
+    }
+  }
+}
